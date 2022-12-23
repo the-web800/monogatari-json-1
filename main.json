@@ -1,5 +1,5 @@
 {
-	"book": [
-		""
+	"books": [
+		"https://raw.githubusercontent.com/the-web800/monogatari-json-1/main/sampo1.json"
 	]
 }
